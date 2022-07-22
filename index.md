@@ -11,10 +11,13 @@ sidebar:
     nav: "categories"
 
 include_categories:   
-  - how-to
   - templates
+  - getting-started
+  - how-to
 
-classes: # Setting the class as wide will extend the page's content into the right margin.
+classes: # wide # Setting the class as wide will extend the page's content into the right margin.
+
+
 ---
 
 You can replace the text in this section with your own text such as an introduction to your site.

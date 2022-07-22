@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single # home
 title:  "Timeline"
 category: "templates"
 permalink: /templates/timeline/
@@ -12,11 +12,17 @@ header:
     caption: # Put a caption for your image here. It will display in the bottom right corner of the image.
     show_overlay_excerpt: false
 
-sidebar:
-    nav: "categories"
-    
-toc: false
-# toc_label: "On this page"
+# sidebar:
+#     nav: "categories"
+
+class: wide
+
+embed:
+    type: 'timeline'
+    url: https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XyIVTMCqXBkvXYKWFGqpvlP2xDE-eRbprP_EH07ZS-I&font=Fjalla-Average&lang=en&initial_zoom=2&height=650
+
+toc: true
+toc_label: "On this page"
 
 # works-cited: # Put your sources in here as a list in alphabetical order, each item should be in quotations, add italics using html tags <i></i>
 #     - item: "Wilde, Oscar. <i>The Picture of Dorian Grey</i>. Ward Lock & Co., 1891, https://en.wikisource.org/wiki/The_Picture_of_Dorian_Gray_(1891)."
@@ -25,8 +31,9 @@ toc: false
 
 ---
 
-
+<div class="embed-responsive">
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XyIVTMCqXBkvXYKWFGqpvlP2xDE-eRbprP_EH07ZS-I&font=Fjalla-Average&lang=en&initial_zoom=2&height=650" width="100%" height="650">
+</div>
 
 
 ## Excerpt from *Pride & Prejudice*
