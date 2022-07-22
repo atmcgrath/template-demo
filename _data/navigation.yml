@@ -31,7 +31,13 @@ categories:
         url: /how-to/bibliography/
       - title: "Colors and Fonts"
         url: /how-to/colors-and-fonts/
-  - title: "Templates"
+  - title: "Demo"
     children:
       - title: Project Template
         url: /templates/project/
+      - title: Timeline
+        url: /templates/timeline/
+      - title: Visual Essay
+        url: /templates/essay/
+      - title: Data Visualization
+        url: /templates/data-viz/
