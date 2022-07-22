@@ -3,11 +3,12 @@ layout: single
 title:  "Timeline"
 category: "templates"
 permalink: /templates/timeline/
+author: Irma Vep
 
 header:
     teaser: /assets/images/default-3.jpg
-    overlay_image: /assets/images/default-3.jpg  # Putting the path to an image here will add a header image.
-    image_description: "Describe your image here" # It is good practice to include an image desription as alt text.
+    image: /assets/images/default-3.jpg  # Putting the path to an image here will add a header image.
+    alt: "Typewriter keys" # It is good practice to include an image desription as alt text.
     caption: # Put a caption for your image here. It will display in the bottom right corner of the image.
     show_overlay_excerpt: false
 
@@ -17,16 +18,18 @@ sidebar:
 toc: false
 # toc_label: "On this page"
 
-works-cited: # Put your sources in here as a list in alphabetical order, each item should be in quotations, add italics using html tags <i></i>
-    - item: "Wilde, Oscar. <i>The Picture of Dorian Grey</i>. Ward Lock & Co., 1891, https://en.wikisource.org/wiki/The_Picture_of_Dorian_Gray_(1891)."
+# works-cited: # Put your sources in here as a list in alphabetical order, each item should be in quotations, add italics using html tags <i></i>
+#     - item: "Wilde, Oscar. <i>The Picture of Dorian Grey</i>. Ward Lock & Co., 1891, https://en.wikisource.org/wiki/The_Picture_of_Dorian_Gray_(1891)."
+
+# code: <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XyIVTMCqXBkvXYKWFGqpvlP2xDE-eRbprP_EH07ZS-I&font=Fjalla-Average&lang=en&initial_zoom=2&height=650" width="100%" height="650">
+
 ---
 
-## Timeline
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XyIVTMCqXBkvXYKWFGqpvlP2xDE-eRbprP_EH07ZS-I&font=Fjalla-Average&lang=en&initial_zoom=2&height=650" width="100%" height="650">
 
 
-## Excerpt from *The Picture of Dorian Grey*
+## Excerpt from *Pride & Prejudice*
 
 As he was to begin his journey too early on the morrow to see any of the family, the ceremony of leave-taking was performed when the ladies moved for the night; and Mrs. Bennet, with great politeness and cordiality, said how happy they should be to see him at Longbourn again, whenever his engagements might allow him to visit them.[^1]
 
