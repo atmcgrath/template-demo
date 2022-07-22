@@ -1,6 +1,6 @@
 ---
 title:  "4) Site Navigation"
-category: "spotlight"
+category: "getting-started"
 permalink: /how-to/navigation/
 header:
     teaser: /assets/images/ocean-teaser-4.jpg 
