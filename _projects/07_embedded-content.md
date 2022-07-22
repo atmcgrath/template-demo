@@ -44,8 +44,10 @@ To embed any type of content, you would need an embed code first. An embed code 
 
 ```markdown
 {% raw %}
-{%if page.code} <div class ="embed-responsive">
+{%if page.code} 
+<div class ="embed-responsive">
     {{page.code}}
-</div> {%endif %}
+</div> 
+{%endif %}
 {% endraw %}
 ```
