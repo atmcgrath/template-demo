@@ -7,7 +7,8 @@
 
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-skin    : "academic" # Minimal Mistakes: "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"; CWDT: "academic"
+skin    : "dark" 
+# Minimal Mistakes: "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"; CWDT: "academic"
 
 # Site Settings
 locale                   : "en-US"
@@ -99,7 +100,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/digbmc
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -177,8 +178,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
