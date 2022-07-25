@@ -6,19 +6,25 @@ main:
     url: /about/
   - title: "Feedback"
     url: /feedback/
+  - title: "Index"
+    url: /all/
 
 # sidebar links
 categories:
-  - title: "Getting Started"
+  - title: "Demo"
     children:
-      - title: "1. Installation"
-        url: /how-to/installation/
-      - title: "2. Configuration"
-        url: /how-to/configuration/
-      - title: "3. Adding Content"
-        url: /how-to/adding-content/
-      - title: "4. Navigation"
-        url: /how-to/navigation/
+      - title: Project Template
+        url: /templates/project/
+      - title: Timeline
+        url: /templates/timeline/
+      - title: Visual Essay
+        url: /templates/essay/
+      - title: Data Visualization
+        url: /templates/data-viz/
+      - title: Basic project
+        url: /templates/basic-project/
+      - title: Flotsam
+        url: /templates/flotsam/
   - title: "How-To"
     children:
       - title: "Formatting Text with Markdown"
@@ -31,13 +37,3 @@ categories:
         url: /how-to/bibliography/
       - title: "Colors and Fonts"
         url: /how-to/colors-and-fonts/
-  - title: "Demo"
-    children:
-      - title: Project Template
-        url: /templates/project/
-      - title: Timeline
-        url: /templates/timeline/
-      - title: Visual Essay
-        url: /templates/essay/
-      - title: Data Visualization
-        url: /templates/data-viz/

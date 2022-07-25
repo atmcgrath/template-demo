@@ -4,7 +4,7 @@ title: "Flotsam"
 author: Ferg Malleurgue
 category: "templates"
 permalink: /templates/flotsam/
-sidebar: false
+
 ---
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XyIVTMCqXBkvXYKWFGqpvlP2xDE-eRbprP_EH07ZS-I&font=Fjalla-Average&lang=en&initial_zoom=2&height=650" width="100%" height="650"></iframe>

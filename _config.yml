@@ -17,7 +17,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Digital Scholarship @ Bryn Mawr College" # your name or organization
 description              : "Demo site for the CWDT static-site template." # a short description of your site
-url                      : https://digbmc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://atmcgrath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /template-demo # the subpath of your site, e.g. "/blog"
 repository               : atmcgrath/template-demo # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -140,6 +140,7 @@ exclude:
   - package-lock.json
   - Rakefile
   - README
+  - atm-notes.md
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
